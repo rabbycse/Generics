@@ -1,0 +1,11 @@
+E:\Programming\C# Project\System.Collections.Generics\SortedList\bin\Debug\netcoreapp2.1\SortedList.deps.json
+E:\Programming\C# Project\System.Collections.Generics\SortedList\bin\Debug\netcoreapp2.1\SortedList.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\SortedList\bin\Debug\netcoreapp2.1\SortedList.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\SortedList\bin\Debug\netcoreapp2.1\SortedList.dll
+E:\Programming\C# Project\System.Collections.Generics\SortedList\bin\Debug\netcoreapp2.1\SortedList.pdb
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.csprojAssemblyReference.cache
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.dll
+E:\Programming\C# Project\System.Collections.Generics\SortedList\obj\Debug\netcoreapp2.1\SortedList.pdb

@@ -1,0 +1,10 @@
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+E:\Programming\C# Project\System.Collections.Generics\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb

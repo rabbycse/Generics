@@ -1,0 +1,11 @@
+E:\Programming\C# Project\System.Collections.Generics\List\bin\Debug\netcoreapp2.1\List.deps.json
+E:\Programming\C# Project\System.Collections.Generics\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\List\bin\Debug\netcoreapp2.1\List.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\List\bin\Debug\netcoreapp2.1\List.dll
+E:\Programming\C# Project\System.Collections.Generics\List\bin\Debug\netcoreapp2.1\List.pdb
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.csprojAssemblyReference.cache
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.dll
+E:\Programming\C# Project\System.Collections.Generics\List\obj\Debug\netcoreapp2.1\List.pdb

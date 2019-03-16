@@ -1,0 +1,3 @@
+E:\Programming\C# Project\System.Collections.Generics\SortedDictionary\obj\Debug\netcoreapp2.1\SortedDictionary.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\SortedDictionary\obj\Debug\netcoreapp2.1\SortedDictionary.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\SortedDictionary\obj\Debug\netcoreapp2.1\SortedDictionary.AssemblyInfo.cs

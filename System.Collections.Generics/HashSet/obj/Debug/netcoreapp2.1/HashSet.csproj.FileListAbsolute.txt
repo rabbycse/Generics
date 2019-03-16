@@ -1,0 +1,10 @@
+E:\Programming\C# Project\System.Collections.Generics\HashSet\bin\Debug\netcoreapp2.1\HashSet.deps.json
+E:\Programming\C# Project\System.Collections.Generics\HashSet\bin\Debug\netcoreapp2.1\HashSet.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\HashSet\bin\Debug\netcoreapp2.1\HashSet.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\HashSet\bin\Debug\netcoreapp2.1\HashSet.dll
+E:\Programming\C# Project\System.Collections.Generics\HashSet\bin\Debug\netcoreapp2.1\HashSet.pdb
+E:\Programming\C# Project\System.Collections.Generics\HashSet\obj\Debug\netcoreapp2.1\HashSet.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\HashSet\obj\Debug\netcoreapp2.1\HashSet.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\HashSet\obj\Debug\netcoreapp2.1\HashSet.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\HashSet\obj\Debug\netcoreapp2.1\HashSet.dll
+E:\Programming\C# Project\System.Collections.Generics\HashSet\obj\Debug\netcoreapp2.1\HashSet.pdb

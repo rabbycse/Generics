@@ -1,0 +1,10 @@
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+E:\Programming\C# Project\System.Collections.Generics\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb

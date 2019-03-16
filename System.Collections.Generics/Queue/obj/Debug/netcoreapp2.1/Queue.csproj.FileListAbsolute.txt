@@ -1,0 +1,11 @@
+E:\Programming\C# Project\System.Collections.Generics\Queue\bin\Debug\netcoreapp2.1\Queue.deps.json
+E:\Programming\C# Project\System.Collections.Generics\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\Queue\bin\Debug\netcoreapp2.1\Queue.dll
+E:\Programming\C# Project\System.Collections.Generics\Queue\bin\Debug\netcoreapp2.1\Queue.pdb
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.csprojAssemblyReference.cache
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.dll
+E:\Programming\C# Project\System.Collections.Generics\Queue\obj\Debug\netcoreapp2.1\Queue.pdb

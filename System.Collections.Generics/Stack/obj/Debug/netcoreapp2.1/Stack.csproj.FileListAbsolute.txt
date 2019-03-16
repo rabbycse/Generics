@@ -1,0 +1,10 @@
+E:\Programming\C# Project\System.Collections.Generics\Stack\bin\Debug\netcoreapp2.1\Stack.deps.json
+E:\Programming\C# Project\System.Collections.Generics\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.json
+E:\Programming\C# Project\System.Collections.Generics\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.dev.json
+E:\Programming\C# Project\System.Collections.Generics\Stack\bin\Debug\netcoreapp2.1\Stack.dll
+E:\Programming\C# Project\System.Collections.Generics\Stack\bin\Debug\netcoreapp2.1\Stack.pdb
+E:\Programming\C# Project\System.Collections.Generics\Stack\obj\Debug\netcoreapp2.1\Stack.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfoInputs.cache
+E:\Programming\C# Project\System.Collections.Generics\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfo.cs
+E:\Programming\C# Project\System.Collections.Generics\Stack\obj\Debug\netcoreapp2.1\Stack.dll
+E:\Programming\C# Project\System.Collections.Generics\Stack\obj\Debug\netcoreapp2.1\Stack.pdb
